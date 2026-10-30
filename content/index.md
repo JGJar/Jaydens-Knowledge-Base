@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: PC Gaming Guide
 ---
 ## The index page
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Welcome to my PC Gaming knowledge base! This website explores different aspects of PC gaming, including gaming hardware, performance optimization, graphics settings, peripherals, and game recommendations. The goal is to organize useful information and resources to help PC gamers improve their gaming experience.
 
 ## Editing pages
 

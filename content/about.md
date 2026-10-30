@@ -1,0 +1,1 @@
+My name is Jayden, and I'm a Computing Applications student at Texas Tech University. I enjoy PC gaming, exploring technology, and learning about computer hardware. Some of my favorite games include Overwatch, Minecraft, and Destiny 2. I created this website to share information about PC gaming, including hardware, performance, settings, and gaming resources.
